@@ -1,0 +1,2 @@
+- Este servicio utiliza los mismos pasos que la API products y para nuevamente aclarar, no se necesitan configuraciones extras para intercomunicarse, es solo seguir las indicaciones de la instalacion de RabbitMQ, levantar ese servicio y correr estas aplicaciones Back junto al Front.
+- La base de datos, tablas y demas se crean automaticamente a penas se levantan las aplicaciones Back, recomiendo primero levantar la API products para ello.
